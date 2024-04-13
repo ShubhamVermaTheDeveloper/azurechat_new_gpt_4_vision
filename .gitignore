@@ -34,3 +34,5 @@ next-env.d.ts
 .azure/
 infra/aad_setup.sh
 .vscode
+need.md
+src/.env
